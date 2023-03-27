@@ -1,3 +1,4 @@
+function calculate(speed){
 if (speed <= 70){
 
     console.log ("OK");
@@ -10,3 +11,4 @@ if (speed <= 70){
     else{
         console.log("Points:"+((speed-70)/5));
     }
+}  
