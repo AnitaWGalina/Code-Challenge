@@ -1,4 +1,6 @@
 # Code-Challenge
 The first aspect of the challenge is to generate a student grade generator that will help determine the students grades based on the input.In this case , an if-else statement was utilised to aid this.If the student's grade is above 79% the console will output "A" as the result.If not , an else if statemnt comes into play to allocate the required grade based on the percentage attained.If the percentage attained will be less than 40% , the console will output "E" as the grade.
 The Speed Detector is also generated via the use of an if else statement.The speed function is used to calcuate the speed and output the message based on the speed detected.If the speed is less than or equal to 70 , the console will return "That is OK!".Else if the speed is higher than 70 the console will return the message "License suspended".
-The Net Salary Calculator also utilises the if-else statement in order to calculate individual's net salary based on the inputs of the basic salary.
+The Net Salary Calculator also utilises the if-else statement in order to calculate individual's net salary based on the inputs of the basic salary.The calculate Individual salary gets the value submitted by the user.If the grossSalary is less than ksh 6000 , the console will output that tierOneEmployee.Taxable income is derived from the difference between gross salary -nssf.Deductions = payee + nhif + nssf;
+     netSalary = grossSalary - deductions;
+
